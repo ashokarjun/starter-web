@@ -9,3 +9,7 @@ This is an introduction to the starter web project
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
+
+This can deplay in any web server.

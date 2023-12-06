@@ -18,3 +18,9 @@ This can deplay in any web server.
 
 This is created by development group.
 
+## Process to run it
+
+you have 7 steps to run it.
+
+## End
+this is the end the file.
